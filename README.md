@@ -7,7 +7,7 @@ Hi, I'm Gopal Dasbairagya, a passionate self-taught backend web developer from I
 
 [![Gopal's github stats](https://github-readme-stats.vercel.app/api?username=dasbairagya&show_icons=true&theme=radical)](https://github.com/dasbairagya/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasbairagya)](https://github.com/dasbairagya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasbairagya&layout=compact)](https://github.com/dasbairagya/github-readme-stats)
 <!--
 **dasbairagya/dasbairagya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
