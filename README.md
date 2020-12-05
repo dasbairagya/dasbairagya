@@ -1,8 +1,9 @@
 ### Hi there, I'am Gopal! 👋
-Hi, I'm Gopal Dasbairagya, a passionate self-taught backend web developer from India.
+**Gopal Dasbairagya**, a passionate self-taught backend web developer from India.
 
 - 🔭 I’m currently working on PHP
 - 🌱 I’m currently learning AI
+- 👯 I’m looking to collaborate on AI
 - 💬 Ask me about anything [here](https://github.com/dasbairagya/dasbairagya/issues)
 
 ![Gopal's github stats](https://github-readme-stats.vercel.app/api?username=dasbairagya&show_icons=true&theme=radical)
