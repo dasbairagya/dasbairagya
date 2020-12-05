@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, I'am Gopal! 👋
+Hi, I'm Gopal Dasbairagya, a passionate self-taught backend web developer from India.
 
+🔭 I’m currently working on PHP
+
+🌱 I’m currently learning AI
+
+[![Gopal's github stats](https://github-readme-stats.vercel.app/api?username=dasbairagya)](https://github.com/dasbairagya/github-readme-stats)
 <!--
 **dasbairagya/dasbairagya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
