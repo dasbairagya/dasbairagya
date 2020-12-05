@@ -8,14 +8,12 @@
 - ⚡ Fun fact: I love to paint and play tabla/mridanga and keep interest in body building/sports
 
 <br />
-<br />
 
 ---
 
 ![Gopal's github stats](https://github-readme-stats.vercel.app/api?username=dasbairagya&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasbairagya&layout=compact&theme=merko&show_icons=true)
 
-<br />
 <br />
 
 ---
