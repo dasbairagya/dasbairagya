@@ -1,5 +1,5 @@
 ### Hi there, I'am Gopal! 👋
-## A passionate self-taught **IT Analyst** from India.
+## A Passionate Self-taught **IT Analyst** From India.
 
 - 🔭 I’m currently working on PHP
 - 🌱 I’m currently learning AI
