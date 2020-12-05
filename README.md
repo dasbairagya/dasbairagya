@@ -1,5 +1,5 @@
 ### Hi there, I'am Gopal! 👋
-## A passionate self-taught backend web developer from India.
+## A passionate self-taught **IT Analyst** from India.
 
 - 🔭 I’m currently working on PHP
 - 🌱 I’m currently learning AI
