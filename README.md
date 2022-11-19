@@ -15,7 +15,8 @@
 ---
 ### Trophy
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasbairagya&theme=onedark" alt="dasbairagya" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasbairagya&theme=onedark" alt="dasbairagya" /></a> </p> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=dasbairagya&theme=monokai&row=1)](https://github.com/dasbairagya/github-profile-trophy)
 
 ---
 
@@ -24,6 +25,7 @@
 ![Gopal's github stats](https://github-readme-stats.vercel.app/api?username=dasbairagya&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasbairagya&layout=compact&theme=merko&show_icons=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasbairagya&&layout=compact&theme=merko&show_icons=tru" alt="dasbairagya" /></p>
+
 
 ---
 
