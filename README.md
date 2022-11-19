@@ -1,5 +1,6 @@
 ### Hi there, I'am Gopal! 👋
-## A Passionate Self-taught **IT Analyst** From India : [🔭 Visit Portfolio 🔭](https://dasbairagya.github.io){target="_blank"}
+## A Passionate Self-taught **IT Analyst** From India : [🔭 Visit Portfolio 🔭](https://dasbairagya.github.io){:target="_blank"}
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 - 🔭 I’m currently working on PHP
 - 🌱 I’m currently learning AI
