@@ -1,10 +1,10 @@
 ### Hi there, I'am Gopal! 👋
-## A Passionate Self-taught **IT Analyst** From India.
+## A Passionate Self-taught **IT Analyst** From India : [🔭 Visit Portfolio 🔭](https://dasbairagya.github.io/)
 
 - 🔭 I’m currently working on PHP
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on AI
-- 💬 Ask me about anything [here](https://github.com/dasbairagya/dasbairagya/issues)
+- 💬 Ask me about anything [here](https://github.com/dasbairagya/dasbairagya/issues/new)
 - ⚡ Fun fact: I love to paint and play tabla/mridanga and keep interest in body building/sports
 
 ---
