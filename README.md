@@ -21,9 +21,10 @@
 ---
 ### Stats
 
-![Gopal's github stats](https://github-readme-stats.vercel.app/api?username=dasbairagya&show_icons=true&theme=radical)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasbairagya&layout=compact&theme=merko&show_icons=true)-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasbairagya&&layout=compact&theme=merko&show_icons=tru" alt="dasbairagya" /></p>
+<!--![Gopal's github stats](https://github-readme-stats.vercel.app/api?username=dasbairagya&show_icons=true&theme=radical)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasbairagya&layout=compact&theme=merko&show_icons=true)
+![dasbairagya](https://github-readme-streak-stats.herokuapp.com/?user=dasbairagya&&layout=compact&theme=radical&show_icons=tru)
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasbairagya&&layout=compact&theme=merko&show_icons=tru" alt="dasbairagya" /></p> -->
 
 
 ---
